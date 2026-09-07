@@ -1,2 +1,2 @@
-My QA Git Practic
+Hello from MASTER
 Login testing branch
