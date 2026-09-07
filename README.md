@@ -1,1 +1,1 @@
-My QA Git Practice
+My QA Git Practic
